@@ -15,6 +15,7 @@ Details:
 How to use : 
 
 NAME THE FOLDERS EACTLY THE SAME AS SHOWN IN "folder name" 
+
 1. Place the training data in the folder "training_data" in appropriate sub-folders i.e either "spam" or  "not_spam".
 2. Place the training data in the folder "test_data" all together.
 3. Run the code and adjust parameter 'C' to fit the training data as close as possible.
