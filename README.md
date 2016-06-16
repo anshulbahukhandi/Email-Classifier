@@ -20,4 +20,4 @@ How to use :
 4. You can verify the results in text file "result.txt"
 5. Once you get the satisfactory value of parameter 'C'. Delete the training data from the folder "test_data".
 6. Paste your actual test data in the folder "test_data".
-7. See the results in "result.txt" file 
+7. Run code and see the results in "result.txt" file 
